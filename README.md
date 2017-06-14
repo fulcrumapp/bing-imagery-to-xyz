@@ -17,4 +17,4 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-After deploying, view the app URL and use as needed. `https://peaceful-thing-12345.herokuapp.com/{z}/{x}/{y}`
+After deploying, view the app URL and use as needed. `https://peaceful-thing-12345.herokuapp.com/aerial/{z}/{x}/{y}`
