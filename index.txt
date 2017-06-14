@@ -1,0 +1,9 @@
+The following URL schemes will redirect to the correct Bing URL.
+
+Example request URL:
+
+http://localhost:5000/aerial/11/555/857
+
+or
+
+http://localhost:5000/streets/11/555/857
