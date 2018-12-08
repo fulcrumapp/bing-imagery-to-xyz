@@ -2,7 +2,7 @@
   "name": "Bing QuadKey to XYZ",
   "description": "Simple express server that handles convering XYZ to QuadKey",
   "repository": "https://github.com/tylerjohnst/bing-imagery-to-xyz",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-getting-started/public/node.svg",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
 }
